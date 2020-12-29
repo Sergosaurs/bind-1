@@ -21,6 +21,6 @@ public class MyCode {
             num++;
         }
         System.out.println("Вы угадали после: "+num+", попыток.");
-        // привет, как дела?
+        System.out.println("Нужен коммит");
     }
 }
